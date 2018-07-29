@@ -1,0 +1,15 @@
+{
+    "name": "anson/test4",
+    "description": "test composer",
+  "keywords": [
+    "测试composer"
+  ],
+  "version": "dev-master",
+  "homepage": "https://github.com/anxiaowen2/anson-test4",
+  "authors": [
+    {
+      "name": "anson",
+      "email": "244348295@qq.com"
+    }
+  ] 
+}
